@@ -44,6 +44,12 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# Android signing
+android/key.properties
+android/aline-release.jks
+android/*.jks
+android/*.keystore
+
 # Web WASM build artefacts (generated — see README for setup instructions)
 web/drift_worker.dart.js
 web/sqlite3.wasm

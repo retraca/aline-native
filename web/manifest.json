@@ -1,12 +1,11 @@
 {
-    "name": "aline_native",
-    "short_name": "aline_native",
+    "name": "Aline",
+    "short_name": "Aline",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#F5F5F7",
+    "theme_color": "#1C1C1E",
+    "description": "Local-first kanban board and calendar. Track tasks, set due dates, and organise work by category — no account required.",
     "prefer_related_applications": false,
     "icons": [
         {
